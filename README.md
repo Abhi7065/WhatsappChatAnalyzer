@@ -3,6 +3,7 @@ The WhatsApp Chat Analyzer is designed to help you gain valuable insights from y
 
 The project utilizes various open-source libraries and tools. See the requirements.txt file for details.
 
+
 Features
  * Chat Data Extraction: The analyzer can extract relevant information from WhatsApp chat exports, including message timestamps, senders, and message content.
  * Participant Analysis: Gain insights into individual participants' activity, such as message count, average message length, and active hours.
